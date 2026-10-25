@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">PalmRelay</title>
+  <desc id="desc">A phone outline holds a flowing relay path between mint and warm orange endpoints.</desc>
+  <defs>
+    <linearGradient id="relay" x1="100" y1="88" x2="156" y2="176" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#69E6C3"/>
+      <stop offset="1" stop-color="#77C8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="60" fill="#101827"/>
+  <rect x="70" y="29" width="116" height="198" rx="30" fill="none" stroke="#F3F7FC" stroke-width="9"/>
+  <path d="M115 49h26" fill="none" stroke="#F3F7FC" stroke-width="6" stroke-linecap="round"/>
+  <path d="M105 88h29c36 0 36 42 0 42h-13c-36 0-36 44 0 44h30" fill="none" stroke="url(#relay)" stroke-width="11" stroke-linecap="round"/>
+  <circle cx="105" cy="88" r="12" fill="#69E6C3" stroke="#101827" stroke-width="4"/>
+  <circle cx="151" cy="174" r="12" fill="#FFB17A" stroke="#101827" stroke-width="4"/>
+  <path d="M115 207h26" fill="none" stroke="#ADBBD0" stroke-width="5" stroke-linecap="round"/>
+</svg>

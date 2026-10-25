@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">PalmRelay monochrome mark</title>
+  <desc id="desc">Single-color phone and relay path on a transparent background.</desc>
+  <g fill="none" stroke="#101827" stroke-linecap="round">
+    <rect x="70" y="29" width="116" height="198" rx="30" stroke-width="9"/>
+    <path d="M115 49h26" stroke-width="6"/>
+    <path d="M105 88h29c36 0 36 42 0 42h-13c-36 0-36 44 0 44h30" stroke-width="11"/>
+    <path d="M115 207h26" stroke-width="5"/>
+  </g>
+  <circle cx="105" cy="88" r="12" fill="#101827"/>
+  <circle cx="151" cy="174" r="12" fill="#101827"/>
+</svg>

@@ -1,0 +1,14 @@
+# Local tooling and OS metadata
+.DS_Store
+.idea/
+.vscode/
+
+# Device evidence and credentials stay out of this public repository
+.local/
+private/
+captures/
+*.log
+*.key
+*.pem
+.env
+.env.*
